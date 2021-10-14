@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root_group>
+	<group display_name="All Contacts" />
+	<group display_name="Blacklist" />
+	<group display_name="Family" ring="Auto" />
+	<group display_name="WeWork" ring="Auto" />
+</root_group>
+<YeastarIPPhoneDirectory>
+
+
+<DirectoryEntry>
+
+<Name>Simeon</Name>
+
+<Telephone>6213</Telephone>
+
+<Telephone>1234567890</Telephone>
+
+</DirectoryEntry>
+
+ 
+
+<DirectoryEntry>
+
+<Name>Pixy</Name>
+
+<Telephone>6222</Telephone>
+
+<Telephone>37799801@192.168.9.144</Telephone>
+
+</DirectoryEntry>
+
+ 
+
+<DirectoryEntry>
+
+<Name>Jin</Name>
+
+<Telephone>6520</Telephone>
+
+<Telephone>sip:7799802@192.168.9.144</Telephone>
+
+</DirectoryEntry>
+
+ 
+
+</YeastarIPPhoneDirectory>
