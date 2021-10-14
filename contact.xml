@@ -1,10 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<root_group>
-	<group display_name="All Contacts" />
-	<group display_name="Blacklist" />
-	<group display_name="Family" ring="Auto" />
-	<group display_name="WeWork" ring="Auto" />
-</root_group>
 <YeastarIPPhoneDirectory>
 
 
