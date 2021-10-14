@@ -1,41 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<YeastarIPPhoneDirectory>
-
-
-<DirectoryEntry>
-
-<Name>Simeon</Name>
-
-<Telephone>6213</Telephone>
-
-<Telephone>1234567890</Telephone>
-
-</DirectoryEntry>
-
- 
-
-<DirectoryEntry>
-
-<Name>Pixy</Name>
-
-<Telephone>6222</Telephone>
-
-<Telephone>37799801@192.168.9.144</Telephone>
-
-</DirectoryEntry>
-
- 
-
-<DirectoryEntry>
-
-<Name>Jin</Name>
-
-<Telephone>6520</Telephone>
-
-<Telephone>sip:7799802@192.168.9.144</Telephone>
-
-</DirectoryEntry>
-
- 
-
-</YeastarIPPhoneDirectory>
+<XXXIPPhoneDirectory clearlight="true">
+  <Title>Phonelist</Title>
+  <Prompt>Prompt</Prompt>
+  <DirectoryEntry>
+    <Name>1st floor Conference</Name>
+    <Telephone>401</Telephone>
+  </DirectoryEntry>
+</XXXIPPhoneDirectory>
